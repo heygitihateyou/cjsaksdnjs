@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uC5F0\uC2B5\uD30C\uC77C\\\uC5EC\uAE30\uB85C\uD574\\cjsaksdnjs\\game project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0916969E-E0B2-4656-8EC1-0E2BC10C37BD}|game project\\game project.vcxproj|D:\\\uC5F0\uC2B5\uD30C\uC77C\\\uC5EC\uAE30\uB85C\uD574\\cjsaksdnjs\\game project\\game project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0916969E-E0B2-4656-8EC1-0E2BC10C37BD}|game project\\game project.vcxproj|solutionrelative:game project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0916969E-E0B2-4656-8EC1-0E2BC10C37BD}|game project\\game project.vcxproj|D:\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.43.34808\\INCLUDE\\YVALS_CORE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "yvals_core.h",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\yvals_core.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\yvals_core.h",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\yvals_core.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\yvals_core.h",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAjwBYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T15:46:27.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\\uC5F0\uC2B5\uD30C\uC77C\\\uC5EC\uAE30\uB85C\uD574\\cjsaksdnjs\\game project\\game project\\main.cpp",
+              "RelativeDocumentMoniker": "game project\\main.cpp",
+              "ToolTip": "D:\\\uC5F0\uC2B5\uD30C\uC77C\\\uC5EC\uAE30\uB85C\uD574\\cjsaksdnjs\\game project\\game project\\main.cpp*",
+              "RelativeToolTip": "game project\\main.cpp*",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T14:56:13.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
