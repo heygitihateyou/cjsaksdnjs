@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uC5F0\uC2B5\uD30C\uC77C\\\uC5EC\uAE30\uB85C\uD574\\cjsaksdnjs\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8DDF24-F6D0-4A98-9F78-F86661A93CD9}|Project1\\Project1.vcxproj|D:\\\uC5F0\uC2B5\uD30C\uC77C\\\uC5EC\uAE30\uB85C\uD574\\cjsaksdnjs\\Project1\\Project1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D8DDF24-F6D0-4A98-9F78-F86661A93CD9}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\\uC5F0\uC2B5\uD30C\uC77C\\\uC5EC\uAE30\uB85C\uD574\\cjsaksdnjs\\Project1\\Project1\\main.c",
+              "RelativeDocumentMoniker": "Project1\\main.c",
+              "ToolTip": "D:\\\uC5F0\uC2B5\uD30C\uC77C\\\uC5EC\uAE30\uB85C\uD574\\cjsaksdnjs\\Project1\\Project1\\main.c",
+              "RelativeToolTip": "Project1\\main.c",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T14:34:59.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
